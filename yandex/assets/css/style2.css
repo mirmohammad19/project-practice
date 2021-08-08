@@ -1,0 +1,63 @@
+* {
+    margin: 0px;
+    font-family: arial,sans-serif;
+    
+  }
+
+  .yandex {
+    height: 300px; ;
+    width: 900px;
+    border: 1px solid red;
+    /* box-sizing: border-box;   */
+    /* position: relative; */
+    margin: 105px auto 0px;
+
+    
+    
+    
+    
+ }
+ 
+ .yandex img {
+
+    display: inline-block;
+    text-align: left;
+    margin-top: 25px;
+    margin-left: 42px;
+    padding: 13px ;
+ 
+ }
+
+ .yandex .search img {
+    
+    display: inline-block;
+    width: 70px;
+    margin-bottom: -49px;
+    margin-left: -3px;
+
+
+
+ }
+
+ /* .yandex .yandex2 .search  {
+    
+    position: relative;
+    box-sizing: border-box;
+
+
+ } */
+ 
+
+
+ .yandex .search input {
+  
+    display: inline-block;
+    width: 90%;
+    padding: 14px 20px 14px 40px;
+    /* box-sizing: border-box; */
+    border: 1px solid red;
+    border-radius: 100px;
+    margin-left: 89px;;
+    
+ 
+ }
